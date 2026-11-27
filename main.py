@@ -12,3 +12,4 @@ if __name__ == "__main__":
     print("Калькулятор запущен")
     print("6 + 2 =", add(6, 2))
     print("28 / 4 =", divide(28, 4))
+    # test
